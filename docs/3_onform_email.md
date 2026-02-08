@@ -49,7 +49,10 @@ This setup enables:
 
 Below is the workflow that you created and executed:
 
-<img width="1920" height="1032" alt="⚠️ My workflow 3 - n8n - Google Chrome 22-11-2025 11_35_46" src="https://github.com/user-attachments/assets/536a67c7-235b-44bd-b9ac-0400335d817e" />
+<div style="width:100%; height:700px; overflow:hidden;">
+  <img src="https://github.com/user-attachments/assets/536a67c7-235b-44bd-b9ac-0400335d817e"
+       style="width:100%; margin-top:-150px;">
+</div>
 
 
 ---
