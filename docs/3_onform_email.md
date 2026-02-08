@@ -50,7 +50,7 @@ This setup enables:
 Below is the workflow that you created and executed:
 
 <div style="width:100%; height:700px; overflow:hidden;">
-  <img src="https://github.com/user-attachments/assets/536a67c7-235b-44bd-b9ac-0400335d817e"
+  <img src="https://drive.google.com/file/d/12pQpIrEbRIPlHPOVOXSkaCeldg5XFHtB/view?usp=sharing"
        style="width:100%; margin-top:-150px;">
 </div>
 
